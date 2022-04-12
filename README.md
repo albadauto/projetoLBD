@@ -29,4 +29,8 @@
     <img src="https://static.imgs.app/content/assetz/uploads/2017/10/gif-do-garoto-menino-dando-joinha.gif">
   </div>  
   <hr>
-<footer><i>Criado por José Adauto Albarraz Barbosa, Renan Martins, Vitor Hugo, Guilherme Williams</i></footer>
+<footer>
+  <i>Criado por: <br> José Adauto Albarraz Barbosa: https://github.com/albadauto <br> Renan Martins: https://github.com/RJSMARTINS <br> Vitor Hugo</i><br>
+  <i> Guilherme Willams: https://github.com/GuilhermeWillams</i>
+ 
+</footer>
